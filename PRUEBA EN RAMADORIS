@@ -1,1 +1,12 @@
-REVISAR XXXX
+EJERCICIO  RAMADORIS
+1.-Abrir visual studio
+2.-Asegurarse que no tengan una carpeta abierta en VS
+3.-Clonar EL repositorio de la dirección 
+3.1 SI NO están logueados hasta que inician sesión en Github con Visual studio.
+3.2 pegan la URL  https://github.com/juan2416/pruebasGit.git
+4.-Crear un archivo con  su NOMBRE adentro le ponen su canción favorita
+5.-Hace un commit 
+
+
+6.-Lo empujan al server. PUSH
+Crear Rama propia con el nombre
